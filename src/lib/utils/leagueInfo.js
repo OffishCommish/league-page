@@ -26,8 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "342405290488004608",
+      "roster": 1,  // "managerID" : "12345678",
       "name": "Your Name",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Alpharetta", // (optional)
