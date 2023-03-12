@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>We are the League. We select few who dream of glory and honor. Long have our eyes gazed upon the envy of all men’s hearts, The Brogan. We long to win her hand, to lift her high, in so declaring our victory and joining the most prestigious of clubs atop Champion Mountain. To this end do we commit ourselves; for 17 weeks a year we endure until only one man remains standing. We are The League and this is our most valued of Documents. May we never commit the most grievous act of forsaking it.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>We are the League. We select few who dream of glory and honor.  We long to win her hand, to lift her high, in so declaring our victory and joining the most prestigious of clubs atop Champion Mountain. To this end do we commit ourselves; for 17 weeks a year we endure until only one man remains standing. We are The League and this is our most valued of Documents. May we never commit the most grievous act of forsaking it.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
 `;
 
 /*   STEP 3   */
